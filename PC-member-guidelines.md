@@ -1,3 +1,4 @@
+
 # REVIEW PROCESS GUIDELINES FOR PC MEMBERS
 
 ### 1. OBTAIN A GITHUB ACCOUNT
@@ -21,19 +22,20 @@ of the chosen submission:
 
      I will review this submission.
      Your-name Your-surname
-     
+
+Please make sure you include Your-name Your-surname, since your GitHub name might not make your identity explicit.
+
 Only choose submissions labelled "available for self-assignment". Note that initially all submissions are labelled in this way.
-We aim at having 5 reviewers per submission. Before self-assigning the submission, make sure that the submission has
-not been already self-assigned by 5 PC members. In case it has already 5 reviewers self-assigned, please give priority
-to other submissions with less than 5 reviewers.
-If all submissions have already 5 reviewers, feel free to choose any of them.
+We can have up to 9 reviewers per submission. Before self-assigning the submission, make sure that the submission has
+not been already self-assigned by 9 PC members. In case it has already 9 reviewers self-assigned, please give priority
+to other submissions with less than 9 reviewers.
 Please note that issue labels do not change in real-time, they must be changed manually by the Program Co-chairs.
 The deadline for self-assigning the review is
 
-     Tuesday 12 September 2023.
+     Tuesday 26 September 2023 at 23:59 AoE.
 
 If by the deadline you haven't self-assigned a submission yet or you have self-assigned a submission that had already
-enough reviewers and there are still submissions with less than 5 reviewers, then the Program Co-chairs will choose the
+enough reviewers and there are still submissions with less than 9 reviewers, then the Program Co-chairs will choose the
 submission to assign to you.
 Once the assignments of all submissions are completed, they will be entered on EasyChair.
 
@@ -41,16 +43,16 @@ Once the assignments of all submissions are completed, they will be entered on E
 ### 4. REVIEW PROCESS
 The review process consists of the following three phases:
 
-a) INTERACTIVE PHASE (from Wednesday 13 September to Monday 25 September 2023)
+a) INTERACTIVE PHASE (from Wednesday 27 September to Monday 2 October 2023)
    You will be able to interact with the authors and you are expected to provide feedback to the authors throughout
    this review phase. You may put questions to the authors and ask for clarifications.
    Authors are expected to consider your comments, revise their submission and upload it in the issue by
 
-     Thursday 28 2023 at 12:00midnight AoE.
+     Wednesday 4 October 2023 at 16:00 AoE.
 
-b) ASSESSMENT PHASE (from Friday 29 September to Wednesday 4 October 2023)
+b) ASSESSMENT PHASE (from Wednesday 4 to Thursday 5 October 2023)
    You will need to evaluate the revised submission to assess whether the authors have revised the submission according
-   the reviewers' comments. By Wednesday 4 October 2023 you have to upload your review on Easychair.
+   the reviewers' comments. By Thursday 5 October 2023 you have to upload your review on Easychair.
    You should structure your review as follows:
    1. highlight the strengths and weaknesses of the initial submission;
    1. summarise the feedback provided to the authors during the interactive phase (you may cut and past from GitHub);
@@ -58,17 +60,17 @@ b) ASSESSMENT PHASE (from Friday 29 September to Wednesday 4 October 2023)
    1. provide further feedback to the authors aiming to improve the paper;
    1. provide an overall evaluation, including a justification for for score/recommendation, using the confidential part of the review form.
 
-c) FINAL DISCUSSION (from Thursday 5 October to Friday 6 October 2023)
+c) FINAL DISCUSSION (on Friday 6 October 2023)
    It will be carried out on EasyChair. The revised version may be rejected, accepted as it is, accepted with minor
    revision (neither major revision nor conditional acceptance are possible)
-   We aim at sending out notifications to the authors on Friday 6 October 2023.
+   The final discussion will close on Friday 6 October 2023 at 23:59 AoE.
    
 
 ## SUBMISSION CATEGORY AND FORM
 
 In reviewing the submission take into account the category and form of the paper.
 
-We received the following categories of submissions:
+We have the following categories of submissions:
 
 RESEARCH PAPERS to present original research and the analysis, interpretation and validation of the
 research findings.
@@ -93,7 +95,7 @@ TEACHING EXPERIENCE PAPERS to report on teaching experiences using an open commu
 LEARNING EXPERIENCE PAPERS to report on a learning experience within an open community
 in a formal education context (e.g. by university students) or in informal education.
 
-We received contributions in the form of
+Contributions may be in the form of
 
 REGULAR PAPERS between 12 and 15 pages except references for submission (and between 12 and 17 pages except references for post-proceedings camera-ready).
 
