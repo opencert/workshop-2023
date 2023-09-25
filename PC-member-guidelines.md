@@ -48,7 +48,7 @@ The review process consists of the following three phases:
 a) INTERACTIVE PHASE (from Wednesday 27 September to Monday 2 October 2023)
    You will be able to interact with the authors and you are expected to provide feedback to the authors throughout
    this review phase. You may put questions to the authors and ask for clarifications.
-   Authors are expected to consider your comments, revise their submission and upload it in the issue by
+   Authors are expected to consider your comments, revise their submission (on 3-4 October 2023) and upload it in the issue by
 
      Wednesday 4 October 2023 at 16:00 AoE.
 
