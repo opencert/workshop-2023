@@ -34,6 +34,8 @@ The deadline for self-assigning the review is
 
      Tuesday 26 September 2023 at 23:59 AoE.
 
+As soon as you complete your self-assignment, you can start the review. If meeting the rules above, your self-assignment is automatically approved and you do not need any confirmation.
+
 If by the deadline you haven't self-assigned a submission yet or you have self-assigned a submission that had already
 enough reviewers and there are still submissions with less than 9 reviewers, then the Program Co-chairs will choose the
 submission to assign to you.
