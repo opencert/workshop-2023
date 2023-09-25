@@ -65,7 +65,9 @@ b) ASSESSMENT PHASE (from Wednesday 4 to Thursday 5 October 2023)
 c) FINAL DISCUSSION (on Friday 6 October 2023)
    It will be carried out on EasyChair. The revised version may be rejected, accepted as it is, accepted with minor
    revision (neither major revision nor conditional acceptance are possible)
-   The final discussion will close on Friday 6 October 2023 at 23:59 AoE.
+   The final discussion will close on
+   
+     Friday 6 October 2023 at 23:59 AoE.
    
 
 ## SUBMISSION CATEGORY AND FORM
